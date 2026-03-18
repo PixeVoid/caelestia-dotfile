@@ -12,3 +12,6 @@
 - Fish shell config
 - Clipse clipboard theme
 - Keybind cheatsheet script (Super+/)
+
+
+IMPOSTER DONT READ HERE
